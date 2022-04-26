@@ -1,0 +1,12 @@
+przygotuj-srodowisko.sh
+spakuj-rozwiazania.sh
+testuj-rozwiazania.sh
+posprzataj-srodowisko.sh
+lab/*
+lab2_vol1
+dane
+*.tgz
+*.tar.xz
+dodatkowe
+linux-5.11.13
+coreutils-8.32
